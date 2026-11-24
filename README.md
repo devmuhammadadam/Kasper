@@ -2,7 +2,7 @@
 
 ![Landing](./screenshot/landing.png)
 
-- **Live site**: https://muhammad-abdusalam.github.io/Kasper/
+- **Live site**: https://devmuhammadadam.github.io/Kasper/
 
 ### Built with ⚒️
 
@@ -12,4 +12,4 @@
 
 ### Author
 
-- Linkedin: [@muhammad-abdusalam](https://www.linkedin.com/in/muhammad-abdusalam)
+- Linkedin: [@devmuhammadadam](https://www.linkedin.com/in/devmuhammadadam)
